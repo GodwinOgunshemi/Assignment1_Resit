@@ -52,6 +52,8 @@ h1 {
 	padding: 5px 20px 5px 20px;
 	background:  #80ccff;
 	border: 10px solid #000000;
+	text-align: center;
+
 }
 
 
@@ -63,7 +65,32 @@ p {
 	font-size: 14px;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+}
 .footer {
 	background: #ffffff;
 	font-family: arial;
