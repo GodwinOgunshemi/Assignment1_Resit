@@ -1,8 +1,12 @@
+/*styling for main background*/
+
 body {
 	background: #d6d6c2;
 	margin: 0 auto;
 	font-family: arial;
 }
+
+/*styling for page title area*/
 
 .header {
 	margin: auto;
@@ -13,6 +17,7 @@ body {
 	padding: 1px 20px 1px 20px;
 	text-align: center;
 
+/*styling for header font size*/
 
 }
 
@@ -20,6 +25,9 @@ h1 {
 	font-size: 30px;
 
 }
+
+
+/*styling for navigation bar*/
 
 .nav_bar {
 	margin: auto;
@@ -34,17 +42,23 @@ h1 {
 	word-spacing: 40px;
 }
 
+/*styling for the navigation bar hyperlink*/
+
 .nav_bar a {
 	color: #000000;
 	text-decoration: none;
 
 }
 
+/*styling for hyperlink decoration*/
+
 .nav_bar a:hover {
 	color: #ffffff;
 	text-decoration: underline;
 
 }
+
+/*styling for the main data area*/
 
 .main_container {
 	margin: auto;
@@ -56,14 +70,20 @@ h1 {
 
 }
 
+/*styling for header 2 font size*/
 
 h2 {
 	font-size: 18px;
 }
 
+/*styling for paragraph font size*/
+
 p {
 	font-size: 14px;
 }
+
+
+/*styling for social media links*/
 
 .fa {
   padding: 20px;
@@ -74,21 +94,27 @@ p {
   margin: 5px 2px;
 }
 
+/*this css code is used to change the opacity of the social media link when you hover over it*/
+
 .fa:hover {
     opacity: 0.7;
 }
 
+/*code for twitter link*/
 
 .fa-twitter {
   background: #55ACEE;
   color: white;
 }
 
+/*code for instagram link*/
+
 .fa-instagram {
   background: #125688;
   color: white;
 }
 
+/*styling for footer*/
 
 }
 .footer {
