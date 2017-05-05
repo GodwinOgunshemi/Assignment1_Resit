@@ -15,15 +15,15 @@ body {
 	border: 10px solid #000000;
 	background:  #80ccff;
 	padding: 1px 20px 1px 20px;
-	text-align: center;
+	text-align: left;
 
 /*styling for header font size*/
 
 }
 
 h1 {
-	font-size: 30px;
-
+	font-size: 1.9em;
+	text-align: center;
 }
 
 
@@ -37,7 +37,7 @@ h1 {
 	background: #d6d6c2;
 	color: #ffffff;
 	text-align: center;
-	font-size: 20px;
+	font-size: 1.3em;
 	font-weight: bold;
 	word-spacing: 40px;
 }
@@ -73,13 +73,13 @@ h1 {
 /*styling for header 2 font size*/
 
 h2 {
-	font-size: 18px;
+	font-size: 1.3em;
 }
 
 /*styling for paragraph font size*/
 
 p {
-	font-size: 14px;
+	font-size: 1em;
 }
 
 
@@ -87,9 +87,7 @@ p {
 
 .fa {
   padding: 20px;
-  font-size: 30px;
   width: 50px;
-  text-align: center;
   text-decoration: none;
   margin: 5px 2px;
 }
